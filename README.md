@@ -191,6 +191,26 @@ You may include a short screen recording showing:
 * Model training
 * Graph output
 * Predictions
+## 📊 Model Output & Graphs
+
+### 🧾 Dataset Loaded
+The dataset was successfully loaded and filtered into four balanced categories.
+
+![Dataset Screenshot](Screenshot%202025-10-20%20223244.png)
+
+---
+
+### 🧠 Model Training and Accuracy Output
+Below shows the model’s accuracy and classification report after training.
+
+![Training Screenshot](Screenshot%202025-10-20%20223310.png)
+
+---
+
+### 📈 Learning Curve — Training vs Validation Accuracy
+This plot visualizes how the model performance changes as training data size increases.
+
+![Graph Screenshot](Screenshot%202025-10-20%20223340.png)
 
 ---
 
