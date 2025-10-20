@@ -201,9 +201,4 @@ You may include a short screen recording showing:
 📍 Trivandrum, India
 
 ---
-```
 
----
-
-Would you like me to include **example Markdown syntax** for embedding your screenshots (with `![](path/to/image.png)`) so you can paste them easily under each section in the README?
-```
